@@ -1,4 +1,6 @@
 payload:
-  - DOMAIN-SUFFIX,hdzyk.com,DIRECT # 优质资源库
+  - DOMAIN-SUFFIX,hdzyk.com # 优质资源库
   - DOMAIN-REGEX,high.*playback.com,DIRECT # 优质资源库
-  - DOMAIN-SUFFIX,yyzyplay.com,DIRECT # 优质资源库
+  - DOMAIN-SUFFIX,yyzyplay.com # 优质资源库
+  - DOMAIN-SUFFIX,3jdy.com
+  - DOMAIN-SUFFIX,fentvoss.com
